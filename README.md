@@ -21,6 +21,7 @@ I am interested in AI, SmartHome and Internet of thing. I also love to explore m
   - Elysia
   - lumen/laravel
 - Database:
+  - Tarantool
   - Postgres
   - MySQL
   - ORM: Prisma
