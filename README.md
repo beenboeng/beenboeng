@@ -19,7 +19,7 @@ I am interested in AI, SmartHome and Internet of thing. I also love to explore m
   - Vue / Nuxt
 - Backend Web:
   - Elysia
-  - lumen/laravel
+  - lumen / laravel
 - Database:
   - Tarantool
   - Postgres
