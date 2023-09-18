@@ -17,6 +17,7 @@ I am interested in AI, SmartHome and Internet of thing. I also love to explore m
 - Frontend Web:
   - Svelte Kit
   - Vue / Nuxt
+  - React
 - Styling
   - Sass
   - Tailwind CSS
