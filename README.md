@@ -23,7 +23,6 @@ I am interested in AI, SmartHome and Internet of thing. I also love to explore m
   - Tailwind CSS
   - Css
 - Backend Web:
-  - Elysia
   - lumen / laravel
 - Database:
   - Tarantool
