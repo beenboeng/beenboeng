@@ -9,13 +9,12 @@ I am interested in AI, SmartHome, and the Internet of Things. I also love to exp
 - English
 
 ## Programing Language
-- TypeScript
 - Rust
 
 ## Preference:
 - Frontend Web:
   - SvelteKit
-  - Vue / Nuxt
+  - Vue
 - Styling
   - Sass
   - Tailwind CSS
@@ -23,11 +22,12 @@ I am interested in AI, SmartHome, and the Internet of Things. I also love to exp
 - Backend Web:
   - Actix Web
   - lumen / laravel
+  - Nestjs
 - Database:
   - Postgres
 - ORM
-  - Diesel.rs
-  - ORM: Prisma
+  - Diesel
+  - Prisma
 
   
 
