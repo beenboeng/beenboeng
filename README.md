@@ -10,6 +10,7 @@ I am interested in AI, SmartHome, and the Internet of Things. I also love to exp
 
 ## Programing Language
 - Rust
+- Go lang
 
 ## Preference:
 - Frontend Web:
@@ -21,13 +22,15 @@ I am interested in AI, SmartHome, and the Internet of Things. I also love to exp
   - Css
 - Backend Web:
   - Actix Web
-  - lumen / laravel
+  - Gin
+  - Fiber
   - Nestjs
 - Database:
   - Postgres
 - ORM
   - Diesel
   - Prisma
+  - Gorm
 
   
 
